@@ -2,3 +2,5 @@ Iniciar git na pasta => git init
 Adicionar um arquivo no git - git add nome
 Adicionar todos os arquivos da pasta - git add .
 Comitar o arquivo - git commit -m "comentário"
+
+Criando nova branch teste
