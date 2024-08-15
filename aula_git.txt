@@ -1,0 +1,12 @@
+Aula de teste Git
+
+// Replicar o que foi feito em Aula
+
+// Criar pasta utilizando Vs code
+// Criar arquivo
+// Fazer add
+// Fazer commit
+// Criar arquivo com comandos
+// Fazer o add
+// Fazer o commit
+
